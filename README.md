@@ -16,7 +16,9 @@ My job is to build your website so that it is functional and user-friendly but a
 <br><br>
 ## <h2>Skills</h2>
 <br>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/redux-%23E34F26.svg?style=for-the-badge&logo=redux&logoColor=blue" />
 
 
 ## <h2>Connect With Me</h2>
