@@ -14,8 +14,8 @@ My job is to build your website so that it is functional and user-friendly but a
 </p>
 
 <br><br>
-## <h2 align="center">you can reach me by:</h2>
-<p align="center">
+## <h2>Connect With Me:</h2>
+<p>
       <br/>
       <a href="https://www.linkedin.com/in/riody/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
