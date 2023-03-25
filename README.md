@@ -14,7 +14,7 @@ My job is to build your website so that it is functional and user-friendly but a
 </p>
 
 <br><br>
-## <h2>Connect With Me:</h2>
+## <h2>Connect With Me</h2>
 <p>
       <br/>
       <a href="https://www.linkedin.com/in/riody/" target="blank"><img align="center"
@@ -31,7 +31,27 @@ My job is to build your website so that it is functional and user-friendly but a
          alt="azzar" height="30"/></a>
       <br>
     </p>
-
+                                
+## <h2>Github stats</h2>      
+<p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy-islam&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridoy-islam&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hridoy-islam&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+<p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hridoy-islam&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy-islam&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
 
 
 
