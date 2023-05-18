@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 <p>I am Ridoy from Bangladesh. Completed my graduation and Right Now Working I am a full time professional Web Developer. I love to play with JS, React, Nodejs, Express, Redux, MongoDB, MySql, TailwindCSS, Nextjs, Socket.io, TypeScript Wordpress. Everyday I try to learn new things and explore new Technologies.
